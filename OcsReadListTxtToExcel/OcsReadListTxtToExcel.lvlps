@@ -1,0 +1,42 @@
+[AB_Cache_{4D963CC6-C246-4C70-8716-86BE7824968E}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "910966a0d9f67dd1bee1f79c7bbc67f8"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[0][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[0][Path] Line0003 = "Excel.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[1][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[1][Path] Line0003 = "Excel.aliases"
+Cache_GenFile[2][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[2][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[2][Path] Line0003 = "Excel.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{7CA23D45-AD0D-4A79-BC7E-26D794F81982}"
+Cache_GenGUID[1][String] = "{72A35E34-A9F3-4CB3-8E75-FD4595342017}"
+Cache_GenGUID[2][String] = "{805A2454-7184-4C4A-9345-0C72B2272656}"
+Cache_OutputDir[Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtToE"
+Cache_OutputDir[Path] Line0002 = "xcel/OcsReadListTxtToExcel"
+
+[AB_Cache_{2DBF7C7E-B852-4181-B089-DFC95D1156E2}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "910966a0d9f67dd1bee1f79c7bbc67f8"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[0][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[0][Path] Line0003 = "Excel.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[1][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[1][Path] Line0003 = "Excel.aliases"
+Cache_GenFile[2][Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtTo"
+Cache_GenFile[2][Path] Line0002 = "Excel/OcsReadListTxtToExcel/OcsReadListTxtTo"
+Cache_GenFile[2][Path] Line0003 = "Excel.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{7CA23D45-AD0D-4A79-BC7E-26D794F81982}"
+Cache_GenGUID[1][String] = "{72A35E34-A9F3-4CB3-8E75-FD4595342017}"
+Cache_GenGUID[2][String] = "{805A2454-7184-4C4A-9345-0C72B2272656}"
+Cache_OutputDir[Path] Line0001 = "/E/Langulage/LabView/builds/OcsReadListTxtToE"
+Cache_OutputDir[Path] Line0002 = "xcel/OcsReadListTxtToExcel"
+
